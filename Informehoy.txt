@@ -1,3 +1,4 @@
 Los temas tratados el día de hoy
 Sistema de conttrol de versiones
 Sistema de conttrol de versiones
+"Como ignorar archivos para no ser comprometidos en el área de trabajo. Cambiar de ramas y volver a la rama principal"
